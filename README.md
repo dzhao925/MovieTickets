@@ -4,6 +4,6 @@
 - This app practiced the knowledge of Recycler View, fetching data from API using Retrofit, Bottom Navigation View, navigation between screens using Fragments, saving and loading data from Room database, and displaying images using Glide.
 
 ![](https://github.com/dzhao925/MovieTickets/blob/main/MovieList.png)
-![](https://github.com/dzhao925/MovieTickets/blob/main/BuyTicket.png)
+![](https://github.com/dzhao925/MovieTickets/blob/main/TicketPurchased.png)
 ![](https://github.com/dzhao925/MovieTickets/blob/main/MyTicketList.png)
 ![](https://github.com/dzhao925/MovieTickets/blob/main/DeleteTicket.png)
